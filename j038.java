@@ -1,4 +1,4 @@
-// 38: Girlen 50 sayıdan negatiflerin sayısı ile pozitiflerin sayısını bulan program.
+// 38: Girilen 50 sayıdan negatiflerin sayısı ile pozitiflerin sayısını bulan program.
 
 import java.util.Scanner;
 
