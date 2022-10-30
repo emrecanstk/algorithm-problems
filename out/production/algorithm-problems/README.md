@@ -29,3 +29,29 @@ https://www.researchgate.net/profile/Deniz-Gezgin
 - 23: Girilen sayının "güçlü sayı" mı yoksa "güçsüz sayı" mı olduğunu bulan program. Güçlü sayı: basamaklarının faktöriyellerinin toplamı kendisine eşit olan sayı.
 - 24: 1'den 500'e kadar olan tamsayıların toplamını bulan program.
 - 25: Girilen a ve b sayıları 50'den büyük olduğunda c=a+b işlemi yapan, değilse uygun değildir yazan program.
+- 26: 1'den 63'e kadar olan sayılar arasından istenilen sayıyı maksimüm 6 hamlede bulan program.
+- 27: Girilen onluk sayıyı ikilik sayıya çeviren program.
+- 28: İkilik olarak girilen sayıyı onluk sayıya çeviren program.
+- 29: Girilen yılın artık yıl olup olmadığını bulan program. Artık yıl: 4'ün katı olup da 100'ün katı olmayan yıllar.
+- 30: Boyu ve kilosu girilen kişiye vücut kitle indeksine göre geri bildirim veren program.
+- 31: Yarıçapı girilen dairenin alanını ve çevresini hesaplayan program.
+- 32: Kenarları A,B,C ve D olan dikdörtgenin kare olup olmadığını bulan program.
+- 33: Kenarları girilen bir üçgenin üçgen olup olmayacağını bulan program.
+- 34: Girilen 4 basamaklı sayının orjinal sayı olup olmadığını bulan program. Orijinal sayı: ilk iki basamağı ile son iki basamağının toplamının karesi kendine eşit olan sayı.
+- 35: 1 ile 500 arasındaki sayılardan tek sayıların toplamıyla çift sayıların toplamının farkı negatif mi değil mi bulan program.
+- 36: 1 ile 500 arasındaki sayılardan tek sayıların toplamıyla çift sayıların toplamının farkı negatif mi değil mi bulan program.
+- 37: 4 haneli bir sayının basamaklarını bulan program.
+- 38: Girilen 50 sayıdan negatiflerin sayısı ile pozitiflerin sayısını bulan program.
+- 39: Sayı bulmaca oyunu oynatan program.
+- 40: 10 ile 200 arasındaki sayılardan 3 katının 2 fazlası 5'e tam bölünebilen sayıları gösteren program.
+- 41: İç açıları verilen üçgenin hangi tip üçgen olduğunu bulan program
+- 42: Girilen sayının yaklaşık olarak karekökünü bulan program.
+- 43: Girilen iki sayı için OBEB ve OKEK bulan program.
+- 44: 1 ile 25 arasındaki tam sayıların karelerinin toplamını bulan program.
+- 45: ax^2 + bx + c tipindeki bir denklemin köklerini bulan program.
+- 46: 1-100 arasında kaç tane asal sayı vardır gösteren program.
+- 47: 10-100 arasındaki asal sayıları gösteren program.
+- 48: Girilen sayının smith sayısı olup olmadığını bulan program.
+- 49: İki dik kenarı girilen üçgenin hipotenüsünü hesaplayan program
+- 50: İki dik kenarı ve aradaki açısı girilen üçgenin alanını hesaplayan program.
+
