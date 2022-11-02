@@ -60,6 +60,9 @@ https://www.researchgate.net/profile/Deniz-Gezgin
 - 54: Dışarıdan derece olarak girilen değeri radyana çeviren program.
 - 55: Girilen 10 sayının ortalamasıyla bu sayılardan en büyük ve en küçüğünün ortalamasının farkını veren program.
 - 56: k sayısı tek ise 3 ile çarpılıp 1 ekleniyor çift ise 2 ile bölünüyor işlem k sayısı 1 olana kadar devam ediyor bu işlemin kaç adım sürdüğünü,işlem sırasında k sayısının aldığı max değeri k sayısının hangi sayıdan sonra hep çift olarak 1'e ulaştığını bulan program.
-
+- 57: e^x taylor seri açılımını girilen x ve n değerlerine göre sonuç hesaplayan program.
+- 58: x + x^2 / 2! + x^3 / 3! + ... + x^n / n! işlemini girilen x ve n sayılarına göre hesaplayan program.
+- 59: 1-1 + 3+1 + 5-1 + 7+1 + 9-1 ... serisini girilen n terim için hesaplayan program.
+- 
 
 

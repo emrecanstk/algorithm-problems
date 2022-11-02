@@ -54,4 +54,12 @@ https://www.researchgate.net/profile/Deniz-Gezgin
 - 48: Girilen sayının smith sayısı olup olmadığını bulan program.
 - 49: İki dik kenarı girilen üçgenin hipotenüsünü hesaplayan program
 - 50: İki dik kenarı ve aradaki açısı girilen üçgenin alanını hesaplayan program.
+- 51: Yarıçapı girilen kürenin alanını ve hacmini hesaplayan program.
+- 52: Girilen sayının basamaklarındaki rakamlarından en büyüğünü bulan program.
+- 53: Girilen sayı 5-10 arasındaysa karesini alan, 5'ten küçükse faktöriyelini alan, 10'dan büyükse ikiye bölüp bir eksiğini alan program.
+- 54: Dışarıdan derece olarak girilen değeri radyana çeviren program.
+- 55: Girilen 10 sayının ortalamasıyla bu sayılardan en büyük ve en küçüğünün ortalamasının farkını veren program.
+- 56: k sayısı tek ise 3 ile çarpılıp 1 ekleniyor çift ise 2 ile bölünüyor işlem k sayısı 1 olana kadar devam ediyor bu işlemin kaç adım sürdüğünü,işlem sırasında k sayısının aldığı max değeri k sayısının hangi sayıdan sonra hep çift olarak 1'e ulaştığını bulan program.
+- 
+
 
